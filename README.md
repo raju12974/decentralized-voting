@@ -2,6 +2,7 @@
 
 ## Setup
 
+### Backend
 1. Install Backend Dependencies
 ```bash
 cd backend
@@ -15,7 +16,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-# Frontend
+### Frontend
 
 ```sh
 cd voting-ui
