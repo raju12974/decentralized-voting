@@ -2,6 +2,9 @@
 
 ## Setup
 
+### Database
+Using Redis as database
+
 ### Backend
 1. Install Backend Dependencies
 ```bash
